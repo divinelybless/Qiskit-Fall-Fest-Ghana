@@ -1,7 +1,7 @@
 # Qiskit-Fall-Fest-Ghana
 Hello!
 
-You're looking at the repository for the Introductory to Quantum Computing Workshop on October 28, 2023 t0 November 18, 2023.
+You're looking at the repository for the Introductory to Quantum Computing Workshop on October 28, 2023 to November 3, 2023.
 
 The theme for this workshop is **Qiskit Fall Fest Ghana: Quantum Computing for Social Good**.
 
@@ -9,11 +9,11 @@ The repository contains all the Jupyter notebooks which make up the workshop (in
 
 ## Course overview
 
-**Online lectures**: 14:00 to 16:00 UTC on Mondays, Wednesdays and Fridays.
+**Online lectures**: 14:00 to 16:00 UTC on Monday to Fridays.
 
-**Online labs**: Saturdays at 14:00 to 16: 00 UTC.
+**Challenge**: Friday at 14:00 to 16: 00 UTC.
 
-**Deadline of Submission of Assignments**: 23:59 UTC on Tuesdays, Thursdays and Sundays. 
+**Deadline of Submission of Lab Assignment**: 23:59 UTC on Friday, November 3, 2023. 
 
 
 
@@ -25,8 +25,8 @@ The course is taught over a number of sessions, with each session introducing a 
 To work through the course you will need three things on your computer:
 
 1. A copy of the course Jupyter notebooks
-2. A copy of the datasets we’ll be working with
-3. A conda environment with the necessary packages installed
+2. A conda environment with the necessary packages installed
+3. Your determination to learn something new
 
 
 ### 1. Downloading the notebooks to your computer
@@ -38,7 +38,6 @@ $> git clone https://github.com/divinelybless/Qiskit-Fall-Fest-Ghana
 $> cd https://github.com/divinelybless/Qiskit-Fall-Fest-Ghana
 ```
 
-You can now open up a Jupyter notebook session and get working on the notebooks.
 
 ```bash
 $>jupyter notebook
