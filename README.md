@@ -1,7 +1,7 @@
 # Qiskit-Fall-Fest-Ghana
 Hello!
 
-You're looking at the repository for the Introductory to Quantum Computing Workshop on October 28, 2023 to November 3, 2023.
+You're looking at the repository for the Introductory to Quantum Computing Workshop on October 30, 2023 to November 3, 2023.
 
 The theme for this workshop is **Qiskit Fall Fest Ghana: Quantum Computing for Social Good**.
 
