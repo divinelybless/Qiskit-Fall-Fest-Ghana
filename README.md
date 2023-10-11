@@ -15,6 +15,8 @@ The repository contains all the Jupyter notebooks which make up the workshop (in
 
 **Deadline of Submission of Lab Assignment**: 23:59 UTC on Friday, November 3, 2023. 
 
+**Registration Link**: [Here](https://forms.gle/8XVFdUF8Yehe12Dj8)
+
 
 
 The course is taught over a number of sessions, with each session introducing a new set of topics. Each session has an associated Jupyter notebook (see below) which contains background information introducing you to the topic and a set of exercises for you to work through.
