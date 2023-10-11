@@ -48,3 +48,10 @@ $>jupyter notebook
 We hope you enjoy the workshop!
 
 $>jupyter notebook
+
+
+![qiskit fall fest ghana](https://github.com/divinelybless/Qiskit-Fall-Fest-Ghana/assets/13132726/15e3e5ad-047b-4c7a-bf8f-b99e382fd1ae)
+
+
+
+
